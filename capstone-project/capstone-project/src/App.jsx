@@ -5,7 +5,6 @@ import PlanetGrid from './components/planets'
 import Table from './components/table'
 import UserForm from './components/form'
 import Footer from './components/footer'
-import './App.css'
 
 function App() {
 

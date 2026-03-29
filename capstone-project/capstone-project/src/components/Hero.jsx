@@ -5,7 +5,7 @@ export default function Hero(){
         <>
             <section>
                 <div class="section1">
-                    <video control autoPlay muted loop className="planet-video">
+                    <video control autoPlay muted loop  playsInline className="planet-video">
                         <source src='/video/planet.mp4' type="video/mp4" />
                     </video>
                     <div class="text-right">

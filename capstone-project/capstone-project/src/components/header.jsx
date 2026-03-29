@@ -19,8 +19,9 @@ function Header(){
                             <p>Understand the planets not just by name, but by measurable facts. From size and mass to gravity and density, this page breaks down the solar system in a clear, data-driven way.</p>
     
                             <nav>
-                                <p><a href="#">Explore the Data</a></p>
-                                <p><a href="#">contact us</a></p>
+
+                                <span className="nav"><a href="#">Explore the Data</a></span>
+                                <span className="nav"><a href="#contact">contact us</a></span>
                             </nav>
                         </div>
                         <div  className="right-img"><img src="/earth.png" alt="" /></div>
