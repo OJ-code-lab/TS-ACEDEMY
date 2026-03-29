@@ -345,6 +345,12 @@ h3{
         height: 35.6rem;
         object-fit: cover;
     }
+    .about_us p{
+      word-break: break-all;
+    }
+    .about_us{
+        gap: 50px;
+    }
 }
 @media(max-width: 600px){
     html{

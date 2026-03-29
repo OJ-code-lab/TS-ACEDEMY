@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm install --prefix capstone-project/capstone-project",
+  "buildCommand": "npm run build --prefix capstone-project/capstone-project",
+  "outputDirectory": "capstone-project/capstone-project/dist"
+}
